@@ -25,6 +25,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - **FBX exporter** is now used as a package and no longer in the project
 - Info panels images are now rendered in **AfterPostprocess pass**
 - Night sky stars are now made using **Visual Effect Graph**
+- 2019.1 no longer on master
 
 
 
